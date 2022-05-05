@@ -1,5 +1,5 @@
 import "./style.css";
-import "./draggable";
+import "./drag/assign_event_listeners";
 
 // const app = document.querySelector<HTMLDivElement>('#app')!
 
